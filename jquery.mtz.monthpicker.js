@@ -186,7 +186,7 @@
                 position:'absolute',
                 zIndex:999999,
                 whiteSpace:'nowrap',
-                width:'250px',
+                width:'200px',
                 overflow:'hidden',
                 textAlign:'center',
                 display:'none',
